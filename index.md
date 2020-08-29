@@ -8,7 +8,12 @@
 <body style="background-color:black;margin-left: 35%;margin-top:15% ;">
     <h1 style="color: white;">What is the <br> next sequence??<br>JFMAMJJASON ..<br><br><i>Nb:Write your answer in uppercase.</i></h1>
 
-<script src="script2.js">
+<br>
+<a href="index2.html">
+    <button type="submit" form="form1" value="Submit">Submit Answer</button>    
+ </a>    
+      
+
      
      
       
