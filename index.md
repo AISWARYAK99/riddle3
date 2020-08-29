@@ -6,7 +6,7 @@
     <title>riddle2</title>
 </head>
 <body style="background-color:black;margin-left: 35%;margin-top:15% ;">
-    <h1 style="color: white;">What is the <br> next sequence??<br>JFMAMJJASON ..<br><br><i>Nb:Write your answer in uppercase.</i></h1>
+    <h3 style="color: white;">What is the <br> next sequence??<br>JFMAMJJASON ..<br><br><i>Nb:Write your answer in uppercase.</i></h3>
 
 <br>
 <a href="index2.html">
