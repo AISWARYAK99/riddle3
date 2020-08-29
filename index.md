@@ -12,12 +12,17 @@
 <a href="index2.html">
     <button type="submit" form="form1" value="Submit">Submit Answer</button>    
  </a>    
+ <script src="script2.js"></script>
+     
+     
       
+    
+        
 
      
      
       
-</script>
+
     
 
     
