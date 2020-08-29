@@ -1,5 +1,5 @@
 var pass;
-pass = prompt("please enter the password to access");
+pass = prompt("please enter the answer");
 if (pass == "D") {
     document.location.href = "";
 } else {
